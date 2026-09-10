@@ -9,11 +9,19 @@ YT = "https://script.google.com/macros/s/AKfycbxPh4PRojjnj56XeQFn0Mv2F_0xjMNs38R
 
 
 def get(url):
-    with urllib.request.urlopen(url, timeout=240) as r:
-        body = r.read().decode()
-    if not body.lstrip().startswith("["):
-        raise SystemExit("not json: " + body[:120])
-    return json.loads(body)
+    """3回まで試す。GAS は一時的に 404/500 を返すことがある。ダメなら None（既存ファイルを残す）"""
+    import time
+    for i in range(3):
+        try:
+            with urllib.request.urlopen(url, timeout=240) as r:
+                body = r.read().decode()
+            if body.lstrip().startswith("["):
+                return json.loads(body)
+            print("not json:", body[:80])
+        except Exception as e:
+            print("fetch error:", e)
+        time.sleep(15)
+    return None
 
 
 def clean(o):
@@ -33,16 +41,23 @@ def dump(name, data):
 
 
 sem = get(SEM)
-today = (datetime.datetime.utcnow() + datetime.timedelta(hours=9)).strftime("%Y-%m-%d")
-up = [s for s in sem if s.get("date") and s["date"] >= today]
-past = [s for s in sem if not s.get("date") or s["date"] < today]
-dump("seminars.json", sem)
-dump("seminars_upcoming.json", up)
-dump("seminars_past.json", past)
-dump("seminars_past_9.json", past[:9])
+if sem is None:
+    print("seminars: fetch failed, keep existing files")
+else:
+  today = (datetime.datetime.utcnow() + datetime.timedelta(hours=9)).strftime("%Y-%m-%d")
+  up = [s for s in sem if s.get("date") and s["date"] >= today]
+  past = [s for s in sem if not s.get("date") or s["date"] < today]
+  dump("seminars.json", sem)
+  dump("seminars_upcoming.json", up)
+  dump("seminars_past.json", past)
+  dump("seminars_past_9.json", past[:9])
+  print(f"seminars {len(sem)} (upcoming {len(up)})")
 
 yt = get(YT)
-dump("youtube.json", yt)
-dump("youtube_6.json", yt[:6])
-dump("youtube_9.json", yt[:9])
-print(f"seminars {len(sem)} (upcoming {len(up)}), youtube {len(yt)}")
+if yt is None:
+    print("youtube: fetch failed, keep existing files")
+else:
+    dump("youtube.json", yt)
+    dump("youtube_6.json", yt[:6])
+    dump("youtube_9.json", yt[:9])
+    print(f"youtube {len(yt)}")

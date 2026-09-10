@@ -19,6 +19,8 @@
 "url": "https://xcareplatform.com/seminar/archive/global-cro",
 "pageTitle": "海外CROマネジメントセミナー申し込みページ",
 "titleAuto": "グローバルCROが機能しない本当の要因と、 依頼者側に必要な管理実務・組織体制とは？",
+"cmsTitle": "グローバルCROが機能しない本当の要因と、 依頼者側に必要な管理実務・組織体制とは？",
+"h1": "グローバルCROが機能しない本当の要因と、 依頼者側に必要な管理実務・組織体制とは？",
 "tags": [
 "海外進出",
 "医薬品",
@@ -31,9 +33,39 @@
 "statusEn": "upcoming"
 },
 {
+"category": "医薬品・医療機器",
+"subtitle": "海外事業開発・臨床開発セミナー",
+"title": "グローバル開発30年の実務から紐解く ―― 開発体制を「保有」から「活用」へ切り替える 設計と、海外CROを駆動する司令塔のつくり方",
+"shortName": "海外開発体制設計セミナー",
+"tag1": "医薬品・医療機器",
+"tag2": "",
+"tagsText": "医薬品・医療機器",
+"date": "2026-10-01",
+"dateText": "2026/10/01(木) 17:00〜18:00",
+"time": "17:00〜18:00",
+"lecturer": "棚瀬 敦",
+"lecturerRole": "株式会社xCARE 取締役 共同創業者 / 薬剤師・薬学修士",
+"cover": "https://storage.googleapis.com/studio-design-asset-files/projects/v7qG0LPbaL/s-1200x628_v-fms_webp_34058df2-c576-4a1e-bf47-1ee3d7343974.png",
+"summary": "医薬品・医療機器メーカーにおいて、「海外でも開発する」と決めたあと、その計画を誰がどう回すかは、多くの場合そのままになっています。 1つのプロジェクトを正社員だけで開発するなら、必要な人数は20〜100名規模、予算は10〜数百億円。ピークに合わせて抱えれば固定費が負債に変わり、平時に合わせれば、専門人材の採用にかかる3〜6ヶ月のあいだに機会を失ってしまいます。 この課題を解く方向は「保有」から「活",
+"id": "global-dev",
+"slug": "global-dev",
+"url": "https://xcareplatform.com/seminar/archive/global-dev",
+"pageTitle": "海外開発体制設計セミナー申し込みページ",
+"titleAuto": "グローバル開発30年の実務から紐解く ―― 開発体制を「保有」から「活用」へ切り替える 設計と、海外CROを駆動する司令塔のつくり方",
+"cmsTitle": "",
+"h1": "グローバル開発30年の実務から紐解く ―― 開発体制を「保有」から「活用」へ切り替える 設計と、海外CROを駆動する司令塔のつくり方",
+"tags": [
+"医薬品・医療機器"
+],
+"tag3": "",
+"source": "auto",
+"status": "開催予定",
+"statusEn": "upcoming"
+},
+{
 "category": "医療機器・IVD",
 "subtitle": "",
-"title": "新QMSR施行下でのFDA査察/欧米QMS監査 実践対策セミナー",
+"title": "最短三週間後に来るFDA査察。 その時のQMS防衛策、できてますか？",
 "shortName": "海外QMS対策セミナー",
 "tag1": "医療機器",
 "tag2": "海外進出",
@@ -50,6 +82,8 @@
 "url": "https://xcareplatform.com/seminar/archive/global-qms",
 "pageTitle": "海外QMS対策セミナー 申し込みページ",
 "titleAuto": "— 元認証機関審査員と実務対策を設計する —",
+"cmsTitle": "新QMSR施行下でのFDA査察/欧米QMS監査 実践対策セミナー",
+"h1": "最短三週間後に来るFDA査察。 その時のQMS防衛策、できてますか？",
 "tags": [
 "医療機器",
 "海外進出",
@@ -63,7 +97,7 @@
 {
 "category": "医療機器/診断薬",
 "subtitle": "海外薬事PMセミナー",
-"title": "Pre-Subを\"やり切る\"ための、海外薬事PM実践セミナー【医療機器・診断薬】",
+"title": "FDA申請を「何から・誰と始めるか」が分かる。 最小コストでPre-Subを攻略する体制設計/PM手法",
 "shortName": "海外薬事PM実践セミナー",
 "tag1": "医療機器",
 "tag2": "海外進出",
@@ -80,6 +114,8 @@
 "url": "https://xcareplatform.com/seminar/archive/global-yakuji",
 "pageTitle": "海外薬事PM実践セミナー 申し込みページ",
 "titleAuto": "FDA申請を「何から・誰と始めるか」が分かる。 最小コストでPre-Subを攻略する体制設計/PM手法",
+"cmsTitle": "Pre-Subを\"やり切る\"ための、海外薬事PM実践セミナー【医療機器・診断薬】",
+"h1": "FDA申請を「何から・誰と始めるか」が分かる。 最小コストでPre-Subを攻略する体制設計/PM手法",
 "tags": [
 "医療機器",
 "海外進出"
@@ -109,6 +145,8 @@
 "url": "https://xcareplatform.com/seminar/archive/pre-ind",
 "pageTitle": "Pre-IND攻略プログラム申し込みページ",
 "titleAuto": "Pre-IND攻略プログラム",
+"cmsTitle": "Pre-ind攻略のための実践セミナープログラム（2部構成）",
+"h1": "",
 "tags": [
 "海外進出",
 "医薬品",
@@ -139,6 +177,8 @@
 "url": "https://xcareplatform.com/seminar/archive/gyoita2",
 "pageTitle": "業務委託セミナー2申し込みページ",
 "titleAuto": "「R&D組織の固定費を1/2にする」 \"まるで正社員\"のようにチームにフィットする 業務委託の新しい活用方法 セミナー",
+"cmsTitle": "「R&D組織の固定費を1/2にする」 \"まるで正社員\"のようにチームにフィットする 業務委託の新しい活用方法 セミナー",
+"h1": "「R&D組織の固定費を1/2にする」 \"まるで正社員\"のようにチームにフィットする 業務委託の新しい活用方法 セミナー",
 "tags": [
 "医薬品",
 "医療機器",
@@ -169,6 +209,8 @@
 "url": "https://xcareplatform.com/seminar/archive/ma",
 "pageTitle": "マーケットアクセスセミナー申し込みページ",
 "titleAuto": "マーケットアクセスセミナー",
+"cmsTitle": "「マーケットアクセス」基礎講座 ～新薬の価値を最大限に薬価に反映するために～",
+"h1": "「マーケットアクセス」基礎講座 ～新薬の価値を最大限に薬価に反映するために～",
 "tags": [
 "医薬品",
 "事業開発"
@@ -198,6 +240,8 @@
 "url": "https://xcareplatform.com/seminar/archive/hirinsho-cro",
 "pageTitle": "医療機器当局相談(PMDA/FDA)攻略セミナー申し込みページ",
 "titleAuto": "承認申請経験者が整理する 非臨床CRO委託で失敗しないための 選定・委託・マネジメント",
+"cmsTitle": "承認申請経験者が整理する 非臨床CRO委託で失敗しないための 選定・委託・マネジメント",
+"h1": "承認申請経験者が整理する 非臨床CRO委託で失敗しないための 選定・委託・マネジメント",
 "tags": [
 "医薬品",
 "CRO選定・管理"
@@ -227,6 +271,8 @@
 "url": "https://xcareplatform.com/seminar/archive/samd",
 "pageTitle": "医療機器当局相談(PMDA/FDA)攻略セミナー申し込みページ",
 "titleAuto": "手戻りを防ぐ！プログラム医療機器（SaMD）の失敗しない戦略策定方法 ～開発初期から見据えるべきQMS・薬事・セキュリティの勘所～",
+"cmsTitle": "手戻りを防ぐ！プログラム医療機器（SaMD）の失敗しない戦略策定方法 ～開発初期から見据えるべきQMS・薬事・セキュリティの勘所～",
+"h1": "手戻りを防ぐ！プログラム医療機器（SaMD）の失敗しない戦略策定方法 ～開発初期から見据えるべきQMS・薬事・セキュリティの勘所～",
 "tags": [
 "事業開発",
 "製造・品質",
@@ -258,6 +304,8 @@
 "url": "https://xcareplatform.com/seminar/archive/cmc",
 "pageTitle": "CMC戦略セミナー申し込みページ",
 "titleAuto": "新規モダリティの成否を分ける、 「逆算型のCMC開発」戦略セミナー",
+"cmsTitle": "新規モダリティの成否を分ける、 「逆算型のCMC開発」戦略セミナー",
+"h1": "新規モダリティの成否を分ける、 「逆算型のCMC開発」戦略セミナー",
 "tags": [
 "事業開発",
 "医薬品",
@@ -272,7 +320,7 @@
 {
 "category": "R&D組織",
 "subtitle": "",
-"title": "正社員・CROに “依存しない”。バイオベンチャーの資金と開発を救う「第三の開発体制」とは？",
+"title": "正社員・CROに “依存しない”。 製薬/医療機器メーカーの資金と開発を救う 「第三の開発体制」とは？",
 "shortName": "業務委託活用セミナー",
 "tag1": "事業開発",
 "tag2": "医薬品",
@@ -289,6 +337,8 @@
 "url": "https://xcareplatform.com/seminar/archive/out",
 "pageTitle": "業務委託活用セミナー申し込みページ",
 "titleAuto": "正社員・CROに “依存しない”。 製薬/医療機器メーカーの資金と開発を救う 「第三の開発体制」とは？",
+"cmsTitle": "正社員・CROに “依存しない”。バイオベンチャーの資金と開発を救う「第三の開発体制」とは？",
+"h1": "正社員・CROに “依存しない”。 製薬/医療機器メーカーの資金と開発を救う 「第三の開発体制」とは？",
 "tags": [
 "事業開発",
 "医薬品",
@@ -303,7 +353,7 @@
 {
 "category": "医薬品",
 "subtitle": "",
-"title": "元大手製薬メーカー開発プロマネ直伝-現場で使える逆算型TPPの作り方",
+"title": "現場で「使える」逆算型TPP（Target Product Profile）の作り方",
 "shortName": "",
 "tag1": "医薬品",
 "tag2": "臨床・非臨床試験",
@@ -320,6 +370,8 @@
 "url": "https://xcareplatform.com/seminar/archive/tpp",
 "pageTitle": "セミナー申し込みページ",
 "titleAuto": "現場で「使える」逆算型TPP（Target Product Profile）の作り方",
+"cmsTitle": "元大手製薬メーカー開発プロマネ直伝-現場で使える逆算型TPPの作り方",
+"h1": "現場で「使える」逆算型TPP（Target Product Profile）の作り方",
 "tags": [
 "医薬品",
 "臨床・非臨床試験"
@@ -349,6 +401,8 @@
 "url": "https://xcareplatform.com/seminar/archive/device-ivd-1",
 "pageTitle": "ヘルスケア事業参入セミナー申し込みページ",
 "titleAuto": "異業種からのヘルスケア事業展開セミナー第1弾『 薬事戦略編 』",
+"cmsTitle": "日本から海外へ — 医療機器/体外診断薬の新規市場参入を成功に導く、薬事・開発戦略セミナー",
+"h1": "日本から海外へ — 医療機器/体外診断薬の新規市場参入を成功に導く、薬事・開発戦略セミナー",
 "tags": [
 "医療機器",
 "事業開発"
@@ -361,7 +415,7 @@
 {
 "category": "医薬品",
 "subtitle": "",
-"title": "オーストラリアCROヘッド陣が登壇。「豪州で早期治験を実施する4つのメリット」",
+"title": "海外治験を「成功に導く」第一歩 ― 豪州治験入門オンラインセミナー",
 "shortName": "オーストラリアCROセミナー申し込み",
 "tag1": "臨床・非臨床試験",
 "tag2": "海外進出",
@@ -378,6 +432,8 @@
 "url": "https://xcareplatform.com/seminar/archive/CRO-Australia",
 "pageTitle": "オーストラリアCROセミナー申し込み",
 "titleAuto": "豪州CRO5社 & ｘCARE合同 無料オンラインセミナー",
+"cmsTitle": "オーストラリアCROヘッド陣が登壇。「豪州で早期治験を実施する4つのメリット」",
+"h1": "海外治験を「成功に導く」第一歩 ― 豪州治験入門オンラインセミナー",
 "tags": [
 "臨床・非臨床試験",
 "海外進出"
@@ -407,6 +463,8 @@
 "url": "https://xcareplatform.com/seminar/archive/eu",
 "pageTitle": "BB共催-欧州規制戦略セミナー申し込みページ",
 "titleAuto": "Bird & Bird×ｘCARE 無料オンラインセミナー",
+"cmsTitle": "日本から欧州市場へ-欧州進出のために知っておくべき医薬品規制を徹底解説-",
+"h1": "日本から欧州市場へ-欧州進出のために知っておくべき医薬品規制を徹底解説-",
 "tags": [
 "海外進出"
 ],
@@ -418,7 +476,7 @@
 {
 "category": "医薬品",
 "subtitle": "",
-"title": "【CRO選定 / 管理術】元大手CRO役員が解説！バイオベンチャー向け“超実践CROセミナー”",
+"title": "CRO選定・マネジメントの成否が、試験成否を分ける。バイオベンチャー向け“超実践CROセミナー”",
 "shortName": "",
 "tag1": "CRO選定・管理",
 "tag2": "",
@@ -435,6 +493,8 @@
 "url": "https://xcareplatform.com/seminar/archive/cro",
 "pageTitle": "セミナー申し込みページ",
 "titleAuto": "CRO選定・マネジメントの成否が、試験成否を分ける。バイオベンチャー向け“超実践CROセミナー”",
+"cmsTitle": "【CRO選定 / 管理術】元大手CRO役員が解説！バイオベンチャー向け“超実践CROセミナー”",
+"h1": "CRO選定・マネジメントの成否が、試験成否を分ける。バイオベンチャー向け“超実践CROセミナー”",
 "tags": [
 "CRO選定・管理"
 ],
@@ -446,7 +506,7 @@
 {
 "category": "医療機器・IVD",
 "subtitle": "",
-"title": "【医療機器開発】\"手戻り\"を防ぎ、最短で上市する。 医療機器参入セミナー",
+"title": "\"手戻り\"を防ぎ、最短で上市する。 医療機器参入セミナー(アーカイブ配信)",
 "shortName": "",
 "tag1": "医療機器",
 "tag2": "事業開発",
@@ -463,6 +523,8 @@
 "url": "https://xcareplatform.com/seminar/archive/medical-equipment",
 "pageTitle": "セミナー申し込みページ",
 "titleAuto": "\"手戻り\"を防ぎ、最短で上市する。 医療機器参入セミナー(アーカイブ配信)",
+"cmsTitle": "【医療機器開発】\"手戻り\"を防ぎ、最短で上市する。 医療機器参入セミナー",
+"h1": "\"手戻り\"を防ぎ、最短で上市する。 医療機器参入セミナー(アーカイブ配信)",
 "tags": [
 "医療機器",
 "事業開発"
@@ -475,7 +537,7 @@
 {
 "category": "医薬品",
 "subtitle": "",
-"title": "Bird & Bird×ｘCARE 無料オンラインセミナー",
+"title": "海外VC・パートナーとの戦略的ネットワーキングの極意",
 "shortName": "",
 "tag1": "医薬品",
 "tag2": "",
@@ -492,6 +554,8 @@
 "url": "https://xcareplatform.com/seminar/archive/us-network",
 "pageTitle": "セミナー申し込みページ",
 "titleAuto": "Bird & Bird×ｘCARE 無料オンラインセミナー",
+"cmsTitle": "",
+"h1": "海外VC・パートナーとの戦略的ネットワーキングの極意",
 "tags": [
 "医薬品"
 ],
