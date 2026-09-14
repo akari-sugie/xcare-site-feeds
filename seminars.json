@@ -1,5 +1,35 @@
 [
 {
+"category": "医療機器・IVD",
+"subtitle": "米国FDA申請セミナー",
+"title": "BDD申請(Breakthrough Device Designation) の評価軸と体制作りを、元FDA審査官が解説。",
+"shortName": "BDD申請解説セミナー",
+"tag1": "医療機器・IVD",
+"tag2": "",
+"tagsText": "医療機器・IVD",
+"date": "2026-10-27",
+"dateText": "2026/10/27(火) 10:00〜11:00 (JST)",
+"time": "10:00〜11:00",
+"lecturer": "Dr. Om V. Singh（オム・V・シン）",
+"lecturerRole": "元 米国FDA CDRH 主任審査官 / xCARE エキスパート",
+"cover": "https://storage.googleapis.com/studio-design-asset-files/projects/v7qG0LPbaL/s-1200x628_v-fms_webp_5ea775d5-584b-45d4-b6d6-32a9c04d2c70.png",
+"summary": "Pre-Submission は、論点を絞ってFDAの見解を得るための重要な機会ですが、開発の進み方に応じて、相談を重ねるには 都度申請が必要 です。 BDD （Breakthrough Device Designation）に指定されると、開発の全期間を通じて、 FDAとより頻繁で双方向のやり取りを持つ機会が開かれ、その後の申請も優先的に審査 されます。 ・ Sprint Discussion ",
+"id": "fda-bdd",
+"slug": "fda-bdd",
+"url": "https://xcareplatform.com/seminar/archive/fda-bdd",
+"pageTitle": "BDD申請解説セミナー申し込みページ",
+"titleAuto": "BDD申請(Breakthrough Device Designation) の評価軸と体制作りを、元FDA審査官が解説。",
+"cmsTitle": "",
+"h1": "BDD申請(Breakthrough Device Designation) の評価軸と体制作りを、元FDA審査官が解説。",
+"tags": [
+"医療機器・IVD"
+],
+"tag3": "",
+"source": "auto",
+"status": "開催予定",
+"statusEn": "upcoming"
+},
+{
 "category": "医薬品・医療機器",
 "subtitle": "海外事業開発・臨床開発セミナー",
 "title": "グローバル開発30年の実務から紐解く ―― 開発体制を「保有」から「活用」へ切り替える 設計と、海外CROを駆動する司令塔のつくり方",
@@ -563,5 +593,35 @@
 "source": "auto",
 "status": "開催済み",
 "statusEn": "past"
+},
+{
+"category": "医療機器・IVD",
+"subtitle": "",
+"title": "✅セミナーお申し込みが完了しました。",
+"shortName": "BDD申請開設セミナー_申込完了ページ",
+"tag1": "医療機器・IVD",
+"tag2": "",
+"tagsText": "医療機器・IVD",
+"date": "",
+"dateText": "",
+"time": "",
+"lecturer": "",
+"lecturerRole": "",
+"cover": "https://storage.googleapis.com/studio-design-asset-files/projects/v7qG0LPbaL/s-575x685_92c9879b-e618-4e75-ae03-df92dcef1e81.svg",
+"summary": "",
+"id": "fda-bdd/complete",
+"slug": "fda-bdd/complete",
+"url": "https://xcareplatform.com/seminar/archive/fda-bdd/complete",
+"pageTitle": "BDD申請開設セミナー_申込完了ページ",
+"titleAuto": "✅セミナーお申し込みが完了しました。",
+"cmsTitle": "",
+"h1": "",
+"tags": [
+"医療機器・IVD"
+],
+"tag3": "",
+"source": "auto",
+"status": "不明",
+"statusEn": "unknown"
 }
 ]

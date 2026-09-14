@@ -500,5 +500,35 @@
 "source": "auto",
 "status": "開催済み",
 "statusEn": "past"
+},
+{
+"category": "医療機器・IVD",
+"subtitle": "",
+"title": "✅セミナーお申し込みが完了しました。",
+"shortName": "BDD申請開設セミナー_申込完了ページ",
+"tag1": "医療機器・IVD",
+"tag2": "",
+"tagsText": "医療機器・IVD",
+"date": "",
+"dateText": "",
+"time": "",
+"lecturer": "",
+"lecturerRole": "",
+"cover": "https://storage.googleapis.com/studio-design-asset-files/projects/v7qG0LPbaL/s-575x685_92c9879b-e618-4e75-ae03-df92dcef1e81.svg",
+"summary": "",
+"id": "fda-bdd/complete",
+"slug": "fda-bdd/complete",
+"url": "https://xcareplatform.com/seminar/archive/fda-bdd/complete",
+"pageTitle": "BDD申請開設セミナー_申込完了ページ",
+"titleAuto": "✅セミナーお申し込みが完了しました。",
+"cmsTitle": "",
+"h1": "",
+"tags": [
+"医療機器・IVD"
+],
+"tag3": "",
+"source": "auto",
+"status": "不明",
+"statusEn": "unknown"
 }
 ]
