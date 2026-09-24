@@ -30,6 +30,36 @@
 "statusEn": "upcoming"
 },
 {
+"category": "医療機器・IVD",
+"subtitle": "",
+"title": "Breakthrough Device Designation (BDD): the evaluation criteria, and the team behind a submission — from a former FDA reviewer.",
+"shortName": "BDD申請解説セミナー申し込みページ(英語版)",
+"tag1": "医療機器・IVD",
+"tag2": "",
+"tagsText": "医療機器・IVD",
+"date": "2026-10-27",
+"dateText": "2026/10/27(火) 10:00〜11:00 (JST)",
+"time": "10:00〜11:00",
+"lecturer": "",
+"lecturerRole": "",
+"cover": "https://storage.googleapis.com/studio-design-asset-files/projects/v7qG0LPbaL/s-1024x535_v-fs_webp_655353e0-2e07-45a9-b056-04c8b08bb582.jpg",
+"summary": "",
+"id": "fda-bdd-en",
+"slug": "fda-bdd-en",
+"url": "https://xcareplatform.com/seminar/archive/fda-bdd-en",
+"pageTitle": "BDD申請解説セミナー申し込みページ(英語版)",
+"titleAuto": "[Medical Devices / IVD] Seminar on submissions to the US FDA",
+"cmsTitle": "",
+"h1": "Breakthrough Device Designation (BDD): the evaluation criteria, and the team behind a submission — from a former FDA reviewer.",
+"tags": [
+"医療機器・IVD"
+],
+"tag3": "",
+"source": "auto",
+"status": "開催予定",
+"statusEn": "upcoming"
+},
+{
 "category": "医薬品・医療機器",
 "subtitle": "海外事業開発・臨床開発セミナー",
 "title": "グローバル開発30年の実務から ― 正社員で抱えずに海外開発を回す体制の設計と、 外注でも意思決定を手放さない司令塔の要件",
