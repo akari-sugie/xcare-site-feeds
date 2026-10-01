@@ -119,8 +119,8 @@
 ],
 "tag3": "CRO選定・管理",
 "source": "cms",
-"status": "開催予定",
-"statusEn": "upcoming"
+"status": "開催済み",
+"statusEn": "past"
 },
 {
 "category": "医療機器・IVD",

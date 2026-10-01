@@ -88,38 +88,5 @@
 "source": "auto",
 "status": "開催予定",
 "statusEn": "upcoming"
-},
-{
-"category": "医薬品",
-"subtitle": "海外臨床試験セミナー",
-"title": "グローバルCROが機能しない原因と解決策。―― 日本から欧米CROを統率した海外治験PM 川島直子氏が60分で解説",
-"shortName": "海外CROマネジメントセミナー",
-"tag1": "海外進出",
-"tag2": "医薬品",
-"tagsText": "海外進出 / 医薬品 / CRO選定・管理 / 臨床・非臨床試験",
-"date": "2026-10-01",
-"dateText": "2026/10/01(木) 17:00〜18:00",
-"time": "17:00〜18:00",
-"lecturer": "川島 直子",
-"lecturerRole": "海外臨床試験PM / xCARE エキスパート",
-"cover": "https://storage.googleapis.com/studio-design-asset-files/projects/v7qG0LPbaL/s-1200x628_v-fms_webp_32afbfbf-98d6-4c85-9425-efef99150142.png",
-"summary": "\"CROを替えただけ\"では、海外治験の停滞は解決しません。",
-"id": "global-cro",
-"slug": "global-cro",
-"url": "https://xcareplatform.com/seminar/archive/global-cro",
-"pageTitle": "海外CROマネジメントセミナー申し込みページ",
-"titleAuto": "グローバルCROが機能しない原因と解決策。―― 日本から欧米CROを統率した海外治験PM 川島直子氏が60分で解説",
-"cmsTitle": "グローバルCROが機能しない本当の要因と、 依頼者側に必要な管理実務・組織体制とは？",
-"h1": "グローバルCROが機能しない原因と解決策。―― 日本から欧米CROを統率した海外治験PM 川島直子氏が60分で解説",
-"tags": [
-"海外進出",
-"医薬品",
-"CRO選定・管理",
-"臨床・非臨床試験"
-],
-"tag3": "CRO選定・管理",
-"source": "cms",
-"status": "開催予定",
-"statusEn": "upcoming"
 }
 ]
