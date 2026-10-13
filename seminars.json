@@ -500,36 +500,6 @@
 "statusEn": "past"
 },
 {
-"category": "医療機器・IVD",
-"subtitle": "",
-"title": "異業種から医療機器・診断薬へ。参入前に押さえる日米欧の薬事規制を60分で学ぶ",
-"shortName": "【公式】xCARE(クロスケア)｜日米欧薬事規制セミナー アーカイブ配信",
-"tag1": "医療機器・IVD",
-"tag2": "",
-"tagsText": "医療機器・IVD",
-"date": "2025-11-27",
-"dateText": "2025年11月27日(木) 18:00〜19:00",
-"time": "18:00〜19:00",
-"lecturer": "岸本 仁美",
-"lecturerRole": "薬事コンサルタント / xCARE エキスパート",
-"cover": "https://storage.googleapis.com/studio-design-asset-files/projects/v7qG0LPbaL/s-1200x628_v-fms_webp_bcd63099-4f5b-440c-bdfc-1a51f5a0727f.png",
-"summary": "技術が優れていても、なぜ“薬事で止まる”のか？",
-"id": "lp/device-ivd-1",
-"slug": "lp/device-ivd-1",
-"url": "https://xcareplatform.com/seminar/archive/lp/device-ivd-1",
-"pageTitle": "【公式】xCARE(クロスケア)｜日米欧薬事規制セミナー アーカイブ配信",
-"titleAuto": "異業種から医療機器・診断薬へ。参入前に押さえる日米欧の薬事規制を60分で学ぶ",
-"cmsTitle": "",
-"h1": "異業種から医療機器・診断薬へ。参入前に押さえる日米欧の薬事規制を60分で学ぶ",
-"tags": [
-"医療機器・IVD"
-],
-"tag3": "",
-"source": "auto",
-"status": "開催済み",
-"statusEn": "past"
-},
-{
 "category": "医薬品",
 "subtitle": "",
 "title": "海外治験を「成功に導く」第一歩 ― 豪州治験入門オンラインセミナー",
@@ -711,6 +681,36 @@
 ],
 "tag3": "CRO選定・管理",
 "source": "cms",
+"status": "不明",
+"statusEn": "unknown"
+},
+{
+"category": "医療機器・IVD",
+"subtitle": "",
+"title": "異業種から医療機器・診断薬へ。参入前に押さえる日米欧の薬事規制を60分で学ぶ",
+"shortName": "【公式】xCARE(クロスケア)｜日米欧薬事規制セミナー アーカイブ配信",
+"tag1": "医療機器・IVD",
+"tag2": "",
+"tagsText": "医療機器・IVD",
+"date": "",
+"dateText": "",
+"time": "",
+"lecturer": "岸本 仁美",
+"lecturerRole": "薬事コンサルタント / xCARE エキスパート",
+"cover": "https://storage.googleapis.com/studio-design-asset-files/projects/v7qG0LPbaL/s-1200x628_v-fms_webp_dc6a0e04-9abd-429e-bacd-e3d0be9d5859.png",
+"summary": "技術が優れていても、なぜ“薬事で止まる”のか？",
+"id": "lp/device-ivd-1",
+"slug": "lp/device-ivd-1",
+"url": "https://xcareplatform.com/seminar/archive/lp/device-ivd-1",
+"pageTitle": "【公式】xCARE(クロスケア)｜日米欧薬事規制セミナー アーカイブ配信",
+"titleAuto": "異業種から医療機器・診断薬へ。参入前に押さえる日米欧の薬事規制を60分で学ぶ",
+"cmsTitle": "",
+"h1": "異業種から医療機器・診断薬へ。参入前に押さえる日米欧の薬事規制を60分で学ぶ",
+"tags": [
+"医療機器・IVD"
+],
+"tag3": "",
+"source": "auto",
 "status": "不明",
 "statusEn": "unknown"
 }
