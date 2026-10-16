@@ -30,6 +30,36 @@
 "statusEn": "upcoming"
 },
 {
+"category": "R&D組織",
+"subtitle": "",
+"title": "中堅製薬の「人材不足」どう乗り越える？ 日本臓器製薬CSOが明かす 「外部プロ人材」と取り組む グローバル開発の成功法則",
+"shortName": "日本臓器製薬×xCAREセミナー",
+"tag1": "R&D組織",
+"tag2": "",
+"tagsText": "R&D組織",
+"date": "2026-11-25",
+"dateText": "2026/11/25(水) 17:00〜18:00（日本時間） ・会場：大阪・中之島クロス8階 O-Nexus（リアル会場のみ） ・申込締切：11/23(月) 23:59",
+"time": "17:00〜18:00",
+"lecturer": "和田 康史",
+"lecturerRole": "",
+"cover": "https://storage.googleapis.com/studio-design-asset-files/projects/v7qG0LPbaL/s-1920x1080_v-frms_webp_03d43334-b2c8-47ad-921b-48893ef8fd8f.png",
+"summary": "限られた人材で、開発をどう加速させるか？",
+"id": "nipponzoki",
+"slug": "nipponzoki",
+"url": "https://xcareplatform.com/seminar/archive/nipponzoki",
+"pageTitle": "日本臓器製薬×xCAREセミナー申し込みページ",
+"titleAuto": "日本臓器製薬株式会社 × 株式会社xCARE コラボレーションセミナー",
+"cmsTitle": "",
+"h1": "中堅製薬の「人材不足」どう乗り越える？ 日本臓器製薬CSOが明かす 「外部プロ人材」と取り組む グローバル開発の成功法則",
+"tags": [
+"R&D組織"
+],
+"tag3": "",
+"source": "auto",
+"status": "開催予定",
+"statusEn": "upcoming"
+},
+{
 "category": "医療機器ソフトウェア",
 "subtitle": "米国FDAサイバーセキュリティセミナー",
 "title": "FDAが求めるサイバーセキュリティとは？ 開発への組み込み方と、申請書類で問われること",
@@ -62,7 +92,7 @@
 {
 "category": "医療機器・IVD",
 "subtitle": "米国FDA申請セミナー",
-"title": "FDAブレイクスルー指定(BDD)は、何を示せば取れるのか？",
+"title": "FDAブレイクスルーデバイス指定(BDD)は、何を示せば取れるのか？",
 "shortName": "BDD申請解説セミナー",
 "tag1": "医療機器・IVD",
 "tag2": "",
@@ -78,9 +108,9 @@
 "slug": "fda-bdd",
 "url": "https://xcareplatform.com/seminar/archive/fda-bdd",
 "pageTitle": "BDD申請解説セミナー申し込みページ",
-"titleAuto": "FDAブレイクスルー指定(BDD)は、何を示せば取れるのか？",
+"titleAuto": "FDAブレイクスルーデバイス指定(BDD)は、何を示せば取れるのか？",
 "cmsTitle": "",
-"h1": "FDAブレイクスルー指定(BDD)は、何を示せば取れるのか？",
+"h1": "FDAブレイクスルーデバイス指定(BDD)は、何を示せば取れるのか？",
 "tags": [
 "医療機器・IVD"
 ],
